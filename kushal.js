@@ -4,3 +4,9 @@ function kushal(){
     return k+M;
 }
 console.log(kushal())
+function milan(){
+    var k=5;
+    var m=6;
+    return k*m;
+}
+console.log(milan())
