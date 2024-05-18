@@ -10,3 +10,4 @@ function milan(){
     return k*m;
 }
 console.log(milan())
+MESSI IS THE GOAT
